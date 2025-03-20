@@ -9,7 +9,7 @@
 
 - 👯 Pretendo colaborar no [Dio lab codigo aberto](https://github.com/guidev2899/dio-lab-open-source)
 
-- 💬 Ask me about **Desenvolvimento Back-end com Java e Spring Boot Construção de APIs REST Validação e tratamento de abordagens Bancos de dados (SQL e NoSQL) Arquitetura de software e boas práticas Flask e desenvolvimento com Python**
+- 💬 Sobre mim **Desenvolvimento Back-end com Java e Spring Boot Construção de APIs REST Validação e tratamento de abordagens Bancos de dados (SQL e NoSQL) Arquitetura de software e boas práticas Flask e desenvolvimento com Python**
 
 - 📫 How to contact me **guilherme.dev2899@gmail.com**
 

@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guidev2899&label=Profile%20views&color=0e75b6&style=flat" alt="guidev2899" /> </p>
 
-- 🔭 Atualmente estou trabalhando em [Gerenciador de Tarefas](https://github.com/guidev2899/Taskmanager)
-
 - 🌱 Atualmente estou aprendendo **Criação de APIs Rest com Java e Spring**
-
-- 👯 Pretendo colaborar no [Dio lab codigo aberto](https://github.com/guidev2899/dio-lab-open-source)
 
 - 💬 Sobre mim **Desenvolvimento Back-end com Java e Spring Boot Construção de APIs REST Validação e tratamento de abordagens Bancos de dados (SQL e NoSQL) Arquitetura de software e boas práticas Flask e desenvolvimento com Python**
 
-- 📫 How to contact me **guilherme.dev2899@gmail.com**
+- 📫 Entre em contato comigo **guilherme.dev2899@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
